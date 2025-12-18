@@ -63,3 +63,84 @@ background:#4185b5;
    top:24px;
    left:144px; 
 }
+#cloud1{
+    font-size:80px;
+    position:absolute;
+    top:60px;
+    left:391px;
+}
+#cloud2{
+    font-size:80px;
+    position:absolute;
+    top:160px;
+    left:210px;
+}
+#cloud3{
+    font-size:80px;
+    position:absolute;
+    top:200px;
+    left:530px;
+}
+
+#lizard{
+    font-size:50px;
+    position:absolute;
+    top:100px;
+    left:10px;
+}
+#bunny{
+   font-size:50px;
+    position:absolute;
+    top:140px;
+    left:130px;  
+}
+#tree{
+background:rgb(75, 55, 55);
+height:130px;
+width:70px;
+position:absolute;
+top: 320px;
+left:410px; 
+}
+#leave1{
+background:rgb(111, 184, 106);
+height:90px;
+width:90px;
+border-radius:100%;
+position:absolute;
+top: -70px;
+left:0px; 
+}
+#leave2{
+background:rgb(111, 184, 106);
+height:90px;
+width:90px;
+border-radius:100%;
+position:absolute;
+top: -70px;
+left:-50px; 
+}
+#leave3{
+background:rgb(111, 184, 106);
+height:90px;
+width:90px;
+border-radius:100%;
+position:absolute;
+top: -130px;
+left:30px; 
+}
+#leave4{
+background:rgb(111, 184, 106);
+height:90px;
+width:90px;
+border-radius:100%;
+position:absolute;
+top: -7320px;
+left:0px; 
+}
+#snail{
+    font-size:60px;
+    position:absolute;
+    top:80px;
+    left:-40px;
+}
